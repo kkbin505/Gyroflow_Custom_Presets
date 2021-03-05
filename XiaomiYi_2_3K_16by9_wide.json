@@ -1,0 +1,45 @@
+{
+    "name": "XiaomiYi_2K__1296p 16by9 wide",
+    "note": "",
+    "calibrated_by": "kkbin",
+    "camera_brand": "Xiaomi",
+    "camera_model": "Yi",
+    "lens_model": "",
+    "camera_setting": "1296p 16by9 wide",
+    "calibrator_version": "0.2.1-alpha",
+    "date": "2021-02-21",
+    "calib_dimension": {
+        "w": 2304,
+        "h": 1296
+    },
+    "num_images": 29,
+    "use_opencv_fisheye": true,
+    "fisheye_params": {
+        "RMS_error": 0.7616883775616017,
+        "camera_matrix": [
+            [
+                1020.9316481481503,
+                0.0,
+                1152.0
+            ],
+            [
+                0.0,
+                1022.7590372439805,
+                648.0
+            ],
+            [
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "distortion_coeffs": [
+            0.07333359526629467,
+            -0.05620560805365855,
+            0.08634864082778693,
+            -0.039995245693901955
+        ]
+    },
+    "use_opencv_standard": false,
+    "calib_params": {}
+}
